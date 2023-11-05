@@ -1,2 +1,7 @@
 streamlit
 google-generativeai
+
+easyocr
+numpy
+PIL
+PyPDF2
